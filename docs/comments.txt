@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/46237255/how-to-embed-swagger-ui-into-a-webpage
+
+swagger-ui.css
+swagger-ui-bundle.js
+swagger-ui-standalone-preset.js

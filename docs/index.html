@@ -10,10 +10,11 @@
   <body>
     <div id="swagger-ui"></div>
     <script src="https://unpkg.com/swagger-ui-dist@4.15.2/swagger-ui-bundle.js" crossorigin></script>
+
     <script>
       window.onload = () => {
         window.ui = SwaggerUIBundle({
-          url: "npsapi.yaml",
+          url: 'npsapi.yaml',
           dom_id: "#swagger-ui",
         });
       };
